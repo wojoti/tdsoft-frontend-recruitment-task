@@ -3,7 +3,7 @@ import { AppDataContext } from "../../contexts/AppData.context";
 import {
   CharacterWidgetContainer,
   CharacterStatusLabel,
-  CharacterAvatar
+  CharacterAvatar,
 } from "./CharacterWidget.styled";
 
 const CharacterWidget: React.FC = () => {

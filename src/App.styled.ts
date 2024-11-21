@@ -6,6 +6,7 @@ export const AppContainer = styled.main`
   justify-content: center;
   align-items: center;
   height: 100vh;
+  gap: 18px;
 
   * {
     font-family: "Open Sans";
